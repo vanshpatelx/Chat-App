@@ -13,9 +13,10 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-https://talk-a-tive.herokuapp.com/
+Soon!!!!
 
-![](https://github.com/vansh-patel-8123/Chat-App/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/vansh-patel-8123/Chat-App/blob/main/screenshots/group%20%2B%20notif.PNG)
+
 ## Run Locally
 
 Clone the project
@@ -77,6 +78,3 @@ Start the Client
 ## Made By
 
 - [@VanshPatel](https://github.com/vansh-patel-8123/Chat-App/)
-
-  
-# Chat-App
